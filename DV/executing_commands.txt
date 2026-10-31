@@ -1,0 +1,2 @@
+npm install -r requirements.txt
+streamlit run app.py
